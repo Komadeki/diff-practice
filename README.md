@@ -1,3 +1,3 @@
 # diff-practice
 Git動画講座diff練習用
-変更staging用（１ｓｔ）
+変更WorkingDirectory用（３ｓｔ）
